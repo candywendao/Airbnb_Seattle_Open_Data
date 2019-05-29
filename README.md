@@ -1,4 +1,4 @@
-# Data Analysis 
+# Data Analysis -  Airbnb in Seattle
 
 ## Motivation
 
@@ -15,6 +15,7 @@ This project analyzes the [Airbnb Seattle Open Data](https://www.kaggle.com/airb
 - Data: 
   calendar.csv; listings.csv; reviews.csv;
 - Jupyter Notebook:
+  Dataz_Analysis_Airbnb_in_Seattle.ipynb
 
 ## Acknowledgement
 This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).
